@@ -1,12 +1,16 @@
 # Renvited - An Envited Clone
 
+** Mobile responsive app **
+
 ## Technologies used
 
-React
-TypeScript
-Styled-Components
-React-Icons
-React Router
+- React
+- TypeScript
+- Styled-Components
+- React-Icons
+- React Router
+
+## Preview
 
 ![Screenshot 2022-10-03 at 10 37 09 PM](https://user-images.githubusercontent.com/71542564/193568007-96b9a914-01eb-4887-9364-c1a30066c299.png)
 
